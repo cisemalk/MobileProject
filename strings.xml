@@ -1,0 +1,136 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="student_id">STUDENT ID:</string>
+    <string name="please_enter_your_student_id">Please enter your student ID</string>
+    <string name="name_and_lastname">NAME AND LASTNAME:</string>
+    <string name="please_enter_your_name">Please enter your name</string>
+    <string name="please_enter_your_lastname">Please enter your lastname</string>
+    <string name="birth_date">BIRTH DATE:</string>
+    <string name="select_date">Select date</string>
+    <string name="birth_place">BIRTH PLACE:</string>
+    <string name="gender">GENDER:</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="faculty">FACULTY:</string>
+    <string name="department">DEPARTMENT:</string>
+    <string name="gpa">GPA:</string>
+    <string name="please_enter_your_gpa">Please enter your GPA</string>
+    <string name="scholarship">SCHOLARSHIP:</string>
+    <string name="full">Full</string>
+    <string name="half">Half</string>
+    <string name="none">None</string>
+    <string name="additional_info">ADDITIONAL INFO:</string>
+    <string name="i_want_to_add_extra_info">I want to add extra info.</string>
+    <string name="submit">Submit</string>
+    <string name="reset">Reset</string>
+    <string name="exit">Exit</string>
+    <string-array name="iller">
+        <item>İstanbul</item>
+        <item>Ankara</item>
+        <item>Antalya</item>
+        <item>Gaziantep</item>
+        <item>Trabzon</item>
+        <item>Bursa</item>
+        <item>Antalya</item>
+        <item>Adana</item>
+        <item>Muş</item>
+        <item>Hakkari</item>
+        <item>Eskişehir</item>
+        <item>Konya</item>
+        <item>Iğdır</item>
+        <item>Denizli</item>
+        <item>Sivas</item>
+        <item>Giresun</item>
+        <item>Gümüşhane</item>
+        <item>Edirne</item>
+        <item>Kırıkkale</item>
+        <item>Kırklareli</item>
+        <item>Tekirdağ</item>
+        <item>Balıkesir</item>
+        <item>Çanakkale</item>
+        <item>İzmir</item>
+        <item>Burdur</item>
+        <item>Manisa</item>
+        <item>Aydın</item>
+        <item>Mardin</item>
+        <item>Bingöl</item>
+        <item>Malatya</item>
+        <item>Samsun</item>
+        <item>Ordu</item>
+        <item>Rize</item>
+        <item>Kocaeli</item>
+        <item>Isparta</item>
+        <item>Kilis</item>
+        <item>Şanlıurfa</item>
+        <item>Adıyaman</item>
+    </string-array>
+    <string-array name="faculties">
+        <item>Business</item>
+        <item>Architecture</item>
+        <item>Communication</item>
+        <item>Engineering and Natural Sciences</item>
+        <item>Health Sciences</item>
+        <item>Law</item>
+        <item>Social Sciences</item>
+        <item>Applied Sciences</item>
+    </string-array>
+    <string-array name="Engineer">
+        <item>Civil Engineering</item>
+        <item>Computer Engineering</item>
+        <item>Computer Science</item>
+        <item>Electrical and Electronics Engineering</item>
+        <item>Energy Systems Engineering</item>
+        <item>Genetics and Bioengineering</item>
+        <item>Industrial Engineering</item>
+        <item>Mathematics</item>
+        <item>Mechanical Engineering</item>
+        <item>Mechatronics Engineering</item>
+    </string-array>
+    <string-array name="Law">
+        <item>Law</item>
+    </string-array>
+    <string-array name="applied">
+        <item>Aviation Management</item>
+        <item>Banking and Finance</item>
+        <item>Gastronomy and Culinary Arts</item>
+        <item>International Retail Management</item>
+        <item>Logistics Management</item>
+        <item>Sports Management</item>
+        <item>Textile and Fashion Design</item>
+        <item>Tourism Management</item>
+    </string-array>
+    <string-array name="Architecture">
+        <item>Architecture</item>
+        <item>Industrial Design</item>
+        <item>Interior Design</item>
+    </string-array>
+    <string-array name="Business">
+        <item>Business Administration</item>
+        <item>Economics</item>
+    </string-array>
+    <string-array name="Communication">
+        <item>Arts and Cultural Management</item>
+        <item>Communication Design and Management</item>
+        <item>Digital Game Design</item>
+        <item>Film</item>
+        <item>Media</item>
+    </string-array>
+    <string-array name="Health">
+        <item>Child Development</item>
+        <item>Health Management</item>
+        <item>Nursing</item>
+        <item>Occupational Therapy</item>
+        <item>Perfusion</item>
+        <item>Physiotherapy and Rehabilitation</item>
+    </string-array>
+    <string-array name="Social">
+        <item>Comparative Literature</item>
+        <item>English Language and Literature</item>
+        <item>English Language Teacher Education</item>
+        <item>History</item>
+        <item>International Relations</item>
+        <item>Music</item>
+        <item>Psychology</item>
+        <item>Sociology</item>
+    </string-array>
+</resources>
